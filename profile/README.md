@@ -1,9 +1,11 @@
-# [JXD](https://www.jxd.dev)
+# [JXD](https://www.jxd.dev) soon to be [The Holistic Company](https://www.holistic.company)
 
 A software company!
 
 ## Our Products
 
-- [Luna](https://www.useluna.xyz) - Analytics for tRPC.
-- [Quadratic](https://www.quadratic.dev/) - Send customer feedback directly to Linear.
-- [Blockly](https://blockly.jxd.dev/) - Open-source distraction blocking.
+- [Big Journal](https://www.bigjournal.app)
+
+## Open Source
+
+- [Quadratic](https://github.com/jxdltd/quadratic-v2)
