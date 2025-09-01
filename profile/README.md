@@ -4,8 +4,10 @@ A software company!
 
 ## Our Products
 
+- [Hype](https://www.buildhype.dev)
 - [Big Journal](https://www.bigjournal.app)
 
 ## Open Source
 
+- [Hype](https://github.com/jxdltd/hype)
 - [Quadratic](https://github.com/jxdltd/quadratic-v2)
